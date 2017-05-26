@@ -1,0 +1,34 @@
+input
+
+
+# Javascript, Node
+**/node_modules
+**/bower_components
+**/.bowerrc
+
+
+# build
+**/build
+**/bin
+**/target
+
+#other files
+**/*.log
+**/*.bak
+
+#Editor files
+**/.sublime-project
+**/.tern-project
+**/.jshint
+**/.jshintrc
+
+**/.idea/*
+**/*.iml
+**/*.log
+
+# Eclipse files
+**/.classpath
+**/.springBeans
+**/.settings
+**/.project
+**/.gradle
