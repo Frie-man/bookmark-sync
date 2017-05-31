@@ -2,7 +2,7 @@
     "browsers" : [
       "firefox" , "chrome"
     ],
-    "environments" :
+    "contexts" :
     { "home" :
       {
         "Bookmarks": ["random Bookmark folder 1", "News", "Social Network stuff" ]
