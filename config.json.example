@@ -1,0 +1,21 @@
+{
+    "browsers" : [
+      "firefox" , "chrome"
+    ],
+    "environments" :
+    { "home" :
+      {
+        "Bookmarks": ["random Bookmark folder 1", "News", "Social Network stuff" ]
+      },
+      "work"  : {
+        "Bookmarks": ["IT Blogs", "Internal", "random work related folder"]
+      },
+      "temporary" : {
+        "Bookmarks" : ["Links for my presentation on Cloud platforms" ]
+      }
+      "mobile" : {
+        "Bookmarks" : ["random links for my mobile phone"]
+      }
+    },
+
+}

@@ -1,0 +1,16 @@
+{
+  "top_key" : "roots",
+  "sets" : {
+    "property": "name",
+    "path": "bookmark_bar:children",
+    "mapper" : {
+    "Bookmarks" : "Bookmarks",
+    "Toolbar" :  ""
+  }
+  },
+  "keys" : {
+    "top_key" : "children",
+    "type" : "url",
+    "key": "url",
+    "property" : "name"
+}

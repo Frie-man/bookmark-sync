@@ -1,0 +1,15 @@
+{
+  "top_key" : "children",
+  "sets" : {
+    "property": "title",
+    "path" : "",
+    "mapper" : {
+    "Bookmarks" : "Bookmarks",
+    "Toolbar" :  "Bookmarks Toolbar"
+  },
+  "keys" : {
+    "top_key" : "children",
+    "type" : "url",
+    "key": "uri",
+    "property" : "title"
+}
