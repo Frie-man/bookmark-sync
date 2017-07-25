@@ -8,9 +8,10 @@
     "Toolbar" :  ""
   }
   },
-  "keys" : {
+  "entries" : {
     "top_key" : "children",
     "type" : "url",
     "key": "url",
     "property" : "name"
+}
 }

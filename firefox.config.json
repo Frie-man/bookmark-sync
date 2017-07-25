@@ -6,10 +6,12 @@
     "mapper" : {
     "Bookmarks" : "Bookmarks",
     "Toolbar" :  "Bookmarks Toolbar"
+  }
   },
-  "keys" : {
+  "entries" : {
     "top_key" : "children",
     "type" : "url",
     "key": "uri",
     "property" : "title"
+}
 }
